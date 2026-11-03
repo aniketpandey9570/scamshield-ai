@@ -1,0 +1,12 @@
+# ScamShield AI .gitignore
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+backend/venv/
+backend/__pycache__/
+backend/tests/__pycache__/
+*.pyc
+.env
+backend/.env
+.DS_Store
